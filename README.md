@@ -20,4 +20,11 @@ How to Install :
 6. Download and install Visual Studio Code : https://code.visualstudio.com/download
   --> Used to write the code
 HOW TO WRITE THE SCRIPT:
-1. Open Visual Studio Code
+1. Create a workspace foe the project
+  --> Create a folder where you want to save the projects
+2. Open Workspace in Visual Studio Code
+  --> Open Visual Studio Code --> File --> Open Folder
+  --> Select Created folder.
+3. Use npm init
+  --> Open new command prompt, use <cd> to navigate to workspace folder created.
+  
