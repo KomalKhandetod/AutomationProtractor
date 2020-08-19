@@ -1,7 +1,7 @@
 # AutomationProtractor
 
 
-PREREQUISITES: Download and Installation
+PREREQUISITES: Download and Installation-
 How to Install :
 1. Install nodeJS on our machine : https://nodejs.org/en/download/
   --> Open command prompt, type <npm -version>
@@ -19,8 +19,10 @@ How to Install :
   --> If the console shows "Session" title, with "Create Sessions" and "Refresh Sessions" buttons, means webdriver is running properly. This is nothing but Selenium Server.
 6. Download and install Visual Studio Code : https://code.visualstudio.com/download
   --> Used to write the code
+  
+  
 HOW TO WRITE THE SCRIPT:
-1. Create a workspace foe the project
+1. Create a workspace for the project
   --> Create a folder where you want to save the projects
 2. Open Workspace in Visual Studio Code
   --> Open Visual Studio Code --> File --> Open Folder
@@ -35,9 +37,7 @@ HOW TO WRITE THE SCRIPT:
 4. Add Dependencies for your project here
   --> This is a JSON file, so JSON syntax should be used.
   --> Above "Scripts" tag, add dependency tag
-  --> "dependencies":{  
-  
-      },
+  --> "dependencies":{      },
   --> Add all your dependencies within these curly braces using JSON Syntax.
 5. Adding basic dependencies in your project from VS Code : https://www.npmjs.com/package/protractor
   --> Protractor: "protractor":"^Latest Version Number"; e.g. "protractor":"^7.0.0" [Used to write logic]
