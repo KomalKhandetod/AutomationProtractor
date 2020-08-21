@@ -3,11 +3,16 @@
 
 PREREQUISITES: Download and Installation-
 How to Install :
-1. Install nodeJS on our machine : https://nodejs.org/en/download/.
- --> Open command prompt, type <npm -version>.
+1. Install nodeJS on our machine : https://nodejs.org/en/download/
+
+ --> Open command prompt, type <npm -version>
+ 
 2. Install protractor : 
+
   --> Open Command prompt, type <npm install -g protractor>
+ 
   --> Press Enter.
+  
 3. Install JDK
 4. Install WebDriver Manager :
   --> Open Command Prompt, type <webdriver-manager update>
