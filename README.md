@@ -47,3 +47,11 @@ HOW TO WRITE THE SCRIPT:
   --> Click on View --> Terminal
   --> Open Terminal tab
   --> Type npm install
+7. Create Files from VS Code-
+  --> Configuration file (conf.js) (Specify where selenium is running and where are your specifications)
+  --> Specification File (spec.js) (For Writing Actual JS Code)
+  
+  
+How to Run The code:
+1. In terminal of VS Code, type <protractor conf.js>
+2. To Clear the terminal, type <clear> in terminal
